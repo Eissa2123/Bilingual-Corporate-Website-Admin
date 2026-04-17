@@ -27,13 +27,22 @@ It included both a bilingual corporate website and an internal admin-side workfl
 ## Admin-Side Sections
 - Admin login
 - Main dashboard
+- Site settings
+- Hero slides management
+- Partners management
 - Project management
-- Content organization panels
+- Services management
+- Counter management
+- Outbox management
+- Contact settings
 
 ## Tools & Technologies
 - HTML
 - CSS / SCSS
+- Jinja
 - JavaScript
+- Python
+- SQLite
 - Bilingual interface planning
 - Admin UI structure
 - Content-oriented frontend implementation
@@ -50,28 +59,28 @@ It included both a bilingual corporate website and an internal admin-side workfl
 ## Screenshots
 
 ### Home Page
-![Home Page](docs/screenshots/home-page.jpg)
+![Home Page](docs/screenshots/home-page.png)
 
 ### Services Page
-![Services Page](docs/screenshots/services-page.jpg)
+![Services Page](docs/screenshots/services-page.png)
 
 ### Partners Section
-![Partners Section](docs/screenshots/partner-page.jpg)
+![Partners Section](docs/screenshots/partner-page.png)
 
 ### Statistics Section
-![Statistics Section](docs/screenshots/counter-page.jpg)
+![Statistics Section](docs/screenshots/counter-page.png)
 
 ### Contact Page
-![Contact Page](docs/screenshots/contact-page.jpg)
+![Contact Page](docs/screenshots/contact-page.png)
 
 ### Admin Login
-![Admin Login](docs/screenshots/admin-login-page.jpg)
+![Admin Login](docs/screenshots/admin-login-page.png)
 
 ### Admin Dashboard
-![Admin Dashboard](docs/screenshots/admin-dashboard-page.jpg)
+![Admin Dashboard](docs/screenshots/admin-dashboard-page.png)
 
 ### Admin Projects Page
-![Admin Projects Page](docs/screenshots/admin-projects-page.jpg)
+![Admin Projects Page](docs/screenshots/admin-projects-page.png)
 
 ## Privacy Note
 The source code is intentionally not included in this repository.
