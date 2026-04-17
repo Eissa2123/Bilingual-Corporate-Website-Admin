@@ -70,6 +70,9 @@ It included both a bilingual corporate website and an internal admin-side workfl
 ### Statistics Section
 ![Statistics Section](docs/screenshots/counter-page.png)
 
+### Projects Section
+![Statistics Section](docs/screenshots/projects-page.png)
+
 ### Contact Page
 ![Contact Page](docs/screenshots/contact-page.png)
 
