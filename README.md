@@ -1,13 +1,14 @@
 # Bilingual Corporate Website & Admin Dashboard Case Study
 
 ## Overview
-This project is a case study for a bilingual corporate website supported by an admin dashboard for structured content management.
+This project is a case study for a bilingual corporate website supported by an admin dashboard for structured content and project management.
 
 ## Project Type
 Corporate website with admin-side content management
 
 ## My Role
 - Frontend interface design and implementation
+- Backend implementation
 - Public website layout structuring
 - Bilingual page flow planning
 - Admin dashboard interface organization
@@ -15,13 +16,15 @@ Corporate website with admin-side content management
 
 ## Scope
 This project was not limited to a public-facing landing page.
-It included both a bilingual corporate website and an internal admin-side workflow for managing key sections such as projects, services, and interface content.
+It included both a bilingual corporate website and an internal admin-side workflow for managing services, partners, projects, counters, contact settings, and interface content.
 
 ## Public Website Sections
 - Home page
 - Services section
 - Partners / clients section
 - Statistics / counters section
+- Projects section
+- Outbox section
 - Contact section
 
 ## Admin-Side Sections
@@ -59,31 +62,31 @@ It included both a bilingual corporate website and an internal admin-side workfl
 ## Screenshots
 
 ### Home Page
-![Home Page](docs/screenshots/home-page.png)
+![Screenshot of the bilingual corporate website home page](docs/screenshots/home-page.png)
 
 ### Services Page
-![Services Page](docs/screenshots/services-page.png)
+![Screenshot of the services section in the corporate website](docs/screenshots/services-page.png)
 
 ### Partners Section
-![Partners Section](docs/screenshots/partner-page.png)
+![Screenshot of the partners and clients section](docs/screenshots/partner-page.png)
 
 ### Statistics Section
-![Statistics Section](docs/screenshots/counter-page.png)
+![Screenshot of the statistics and counters section](docs/screenshots/counter-page.png)
 
 ### Projects Section
-![Statistics Section](docs/screenshots/projects-page.png)
+![Screenshot of the statistics and counters section](docs/screenshots/projects-page.png)
 
 ### Contact Page
-![Contact Page](docs/screenshots/contact-page.png)
+![Screenshot of the contact section and inquiry form](docs/screenshots/contact-page.png)
 
 ### Admin Login
-![Admin Login](docs/screenshots/admin-login-page.png)
+![Screenshot of the admin login page](docs/screenshots/admin-login-page.png)
 
 ### Admin Dashboard
-![Admin Dashboard](docs/screenshots/admin-dashboard-page.png)
+![Screenshot of the admin dashboard overview](docs/screenshots/admin-dashboard-page.png)
 
 ### Admin Projects Page
-![Admin Projects Page](docs/screenshots/admin-projects-page.png)
+![Screenshot of the admin project management page](docs/screenshots/admin-projects-page.png)
 
 ## Privacy Note
 The source code is intentionally not included in this repository.
